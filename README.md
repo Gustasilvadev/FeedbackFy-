@@ -5,7 +5,11 @@ O FeedbackFy é uma API RESTful completa para gerenciamento de feedbacks, desenv
 ### Funcionalidades Principais
 
 ✅ CRUD Completo - Criar, listar, atualizar e excluir feedbacks
+
 📊 Estatísticas - Contagem por tipo de feedback
+
 🔍 Consultas Flexíveis - Buscar feedbacks por ID ou listar todos
+
 🗃️ Armazenamento em banco de dados H2
+
 📅 Datas Automáticas - Registro automático de criação e alteração
